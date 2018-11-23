@@ -1,3 +1,3 @@
 # Multithreading-in-JAVA-PPT
 There may be some grammer mistakes.
-Please ignore it
+Please ignore those mistakes.
